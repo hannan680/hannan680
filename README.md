@@ -8,7 +8,6 @@
 <h4 align="center"><b>Frontend Developer | HTML, CSS, JavaScript, ReactJS, Git | BSc IT Student</b></h4>
 
 ## 🙋‍♂️ About Me
-
-<a><img align="right" src="https://stats.quine.sh/Alkaison/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
+<a><img align="right" src="https://stats.quine.sh/hannan680/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
 
 <br>
