@@ -18,9 +18,9 @@
 - 🔭 I’m currently studying in **2nd Year**.
 - 📘 Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/hannan680/ "GitHub Profile").
+- 👨🏻‍💻 Most of my projects are available on [GitHub](https://github.com/hannan680/ "GitHub Profile").
 - ⚡ For fun, I enjoy **Games, Music, Entertainment**.
-- 📫 You can reach me at hannanshoukat55@gmail.com**.
+- 📫 You can reach me at hannanshoukat55@gmail.com.
 - 🔗 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/imhannan/ "LinkedIn Profile").
 
 
