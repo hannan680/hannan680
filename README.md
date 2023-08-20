@@ -1,20 +1,104 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hannan</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hannan680&label=Profile%20views&color=0e75b6&style=flat" alt="hannan680" /> </p>
+![GitHub Banner](https://github.com/Alkaison/Alkaison/assets/98116504/e5a4cb56-1eb4-4a36-8f5b-cefffdfbd074)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hannan680" alt="hannan680" /></a> </p>
+<h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Ganesh Mourya</b></h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/imhannan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imhannan/" height="30" width="40" /></a>
-</p>
+<h2 align="center"><b>I'm a Passionate for 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐨𝐥𝐯𝐢𝐧𝐠 and 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 from India</b></h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h4 align="center"><b>Frontend Developer | HTML, CSS, JavaScript, ReactJS, Git | BSc IT Student</b></h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hannan680&show_icons=true&locale=en&layout=compact" alt="hannan680" /></p>
+## 🙋‍♂️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hannan680&show_icons=true&locale=en" alt="hannan680" /></p>
+<a><img align="right" src="https://stats.quine.sh/Alkaison/github?theme=dark" alt="Quine Stats Card" title="Quine Stats Card" width="450" height="350" /></a> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hannan680&" alt="hannan680" /></p>
+<br>
+
+- 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
+- 👨‍💻 Love to learn new technologies and to explore new set of areas.
+- 👁‍🗨 What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
+- 🔭 I’m Currently Studing in **2nd Year**.
+- 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
+- 👯 I’m looking to collaborate on **Open-Source Projects**.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Alkaison/ "GitHub Profile").
+- ⚡ For Fun **Games, Music, Entertainment**.
+- 📫 How to reach me **505ganeshmourya@gmail.com**.
+- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/Alkaison/ "LinkedIn Profile").
+- 🔗 Connect Me on [**Twitter**](https://twitter.com/Alkaison/ "Twitter Profile").
+- 🔗 Connect Me on [**Discord**](https://discordapp.com/users/536816649425125389 "Discord Profile").
+
+## 🌐 Web Development Projects
+
+| Project List | Languages |
+| --- | :---: |
+| [**🔗 Todo App**](https://github.com/Alkaison/Todo-JavaScript) | HTML, CSS, JS |
+| [**🔗 Calculator**](https://github.com/Alkaison/Calculator) | HTML, CSS, JS |
+| [**🔗 Currency Converter**](https://github.com/Alkaison/Currency-Converter) | HTML, CSS, JS |
+| [**🔗 Tic Tac Toe**](https://github.com/Alkaison/Tic-Tac-Toe) | HTML, CSS, JS |
+| [**🔗 King of Spices**](https://github.com/Alkaison/King-of-Spices) | HTML, CSS, JS |
+| [**🔗 JavaScript Projects**](https://github.com/Alkaison/Web-Projects) | HTML, CSS, JS |
+| [**🔗 Alkaison Blog**](https://github.com/Alkaison/Alkaison.github.io) | Jekyll, Ruby |
+
+## 👨‍💻 Software Development Projects
+
+| Project List | Languages |
+| --- | :---: |
+| [**🔗 Snake Game**](https://github.com/Alkaison/Snake-Game) | C++ |
+| [**🔗 Phonebook Management System**](https://github.com/Alkaison/Phonebook-Management-System) | C |
+| [**🔗 Library Management System**](https://github.com/Alkaison/Library-Management-System) | C |
+| [**🔗 Number System Converter**](https://github.com/Alkaison/Number-System-Converter) | C |
+
+## 🚀 Languages:
+
+<code><img height="27" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5"></code>
+<code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
+<code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
+<code><img height="27" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" title="C"></code>
+<code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" title="C++"></code>
+<code><img height="27" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" title="Markdown"></code>
+
+## 🔮 Tools:
+
+<code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
+<code><img height="27" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" title="Linux"></code>
+
+## ⚡ GitHub Stats & Languages
+
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Alkaison&show_icons=true&theme=react&show=reviews">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
+   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alkaison&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
+  </a>
+
+## ☄️ GitHub Streaks
+
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
+  	<img height="200px" src="https://streak-stats.demolab.com?user=Alkaison&theme=tokyonight&border_radius=8&date_format=j%20M%5B%20Y%5D&card_width=550)](https://git.io/streak-stats">
+  </a>
+
+## 📈 GitHub Contribution Graph
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=Alkaison&theme=tokyo-night&radius=16">
+  </a>
+
+## ⚙️ Things I work with:
+
+- **OS**: Windows 11.
+- **Laptop**: Dell Inspiron 15 3000.
+- **Browser**: Microsoft Edge.
+- **IDE**: VSCode - The best editor out there.
+
+## 📧 Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Alkaison "@Alkaison")
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alkaison "@Alkaison")
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:505ganeshmourya@gmail.com "Email")
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alkaison "@Alkaison")
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/536816649425125389 "@Alkaison")
+
+<div align="center">
+
+### Show some ❤️ by starring ⭐ some of the repositories!
+
+</div>
